@@ -1,7 +1,7 @@
 {
-  "TheDoctor": "csv/70_competitors/TheDoctor_62f22ea7822f5f336e297ec2.csv",
+  "TheDoctor": "https://raw.githubusercontent.com/rubhern/futmondo/refs/heads/main/csv/70_competitors/TheDoctor_62f22ea7822f5f336e297ec2.csv",
   "Georgetto": "csv/70_competitors/Georgetto_64cc17b8c4757c5428786101.csv",
   "Cotxo": "csv/70_competitors/Cotxo_5d480c3ba808f803e14d112d.csv",
-  "Il Capitano": "csv/70_competitors/IlCapitano_66aa3673246b47427e4a8bd0.csv",
+  "Il Capitano": "https://raw.githubusercontent.com/rubhern/futmondo/refs/heads/main/csv/70_competitors/IlCapitano_66aa3673246b47427e4a8bd0.csv",
   "H": "csv/70_competitors/H_5b7f05bfeba6602f39a6723a.csv"
 }
