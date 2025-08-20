@@ -1,0 +1,19 @@
+{
+  "league_name": "Neochapas liga 25/26",
+  "scoring": "Prensa",
+  "currency": "EUR",
+  "timezone": "Europe/Madrid",
+
+  "squad_size_max": 18,
+  "max_bid_formula": "funds + 0.5 * team_value",
+
+  "team_names": {
+    "me": "Il Capitano",
+    "alt_me": "Ruben Hernandez"
+  },
+
+  "preferences": {
+    "prioritize_bot": true,
+    "forbid_descartes": true
+  }
+}
